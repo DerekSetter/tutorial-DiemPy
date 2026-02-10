@@ -1,0 +1,2 @@
+chromosome	relative_rate
+chromosome_Z	1.333
