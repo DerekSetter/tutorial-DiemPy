@@ -14,7 +14,7 @@ Follow the installation instructions at the [diemPy documentation](https://diemp
 Clone or download this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/tutorial-DiemPy.git
+git clone https://github.com/DerekSetter/tutorial-DiemPy.git
 cd tutorial-DiemPy/example_workflow
 ```
 
