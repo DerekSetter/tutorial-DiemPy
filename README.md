@@ -19,10 +19,10 @@ cd tutorial-DiemPy/example_workflow
 ```
 
 ### 3. Set up your environment
-Activate your `diem` conda environment:
+Activate your `diempy` conda environment:
 
 ```bash
-conda activate diem
+conda activate diempy
 ```
 
 ### 4. Launch Jupyter Lab
