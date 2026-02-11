@@ -42,7 +42,8 @@ example_workflow/user_files/*
 example_workflow/data/*
 !example_workflow/data/iphiclides_example.vcf.gz
 
-# keep the output directory, but ignore all files within it:
+# keep the output directory, but ignore all files (other than gitkeep) within it:
 example_workflow/output/*
+!example_workflow/output/.gitkeep
 #example_workflow/output/*
 
