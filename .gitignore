@@ -2,12 +2,12 @@
 **/.ipynb_checkpoints
 
 # IPython
-profile_default/
-ipython_config.py
+**/.profile_default/
+**/.ipython_config.py
 
 
 # SageMath parsed files
-*.sage.py
+**/.sage.py
 
 # Environments
 .env
@@ -39,9 +39,10 @@ example_workflow/user_files/*
 !example_workflow/user_files/user_initial_pol.txt
 
 # only track the example dataset vcf file, ignore any others
-example_workflow/example_dataset/*
-!example_workflow/example_dataset/iphiclides_10k_snps.vcf.gz
+example_workflow/data/*
+!example_workflow/data/iphiclides_example.vcf.gz
 
-# keep the output directory, but ignore all files within it
-output/*
+# keep the output directory, but ignore all files within it:
+example_workflow/output/*
+#example_workflow/output/*
 
