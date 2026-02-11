@@ -66,8 +66,8 @@ git remote set-url --push origin no_push
 
 ## Usage
 
-1. Follow the steps in `tutorial.ipynb` to process your data.
-2. Edit files in `user_files/` as needed for your analysis.
+1. Follow the steps in `tutorial.ipynb` to process the example data.
+2. The files in `user_files/` provide data-specific information to include in the analysis
 3. Results will be saved in the `output/` directory.
 
 
@@ -76,5 +76,9 @@ git remote set-url --push origin no_push
 
 ## Support
 
-For questions or issues, please refer to the [diemPy documentation](https://diempy.readthedocs.io/en/latest/) or open an issue in the main [diemPy repository](https://github.com/Studenecivb/diemPy).
+For questions or issues, please first refer to the [diemPy documentation](https://diempy.readthedocs.io/en/latest/).
+
+If you have qustions or concerns about the tutorial, open an issue in the [tutorial-DiemPy repository](https://github.com/DerekSetter/tutorial-DiemPy/)
+
+If you have issues relating to the `diempy` package itself, please open an issue in the main [diemPy repository](https://github.com/Studenecivb/diemPy).
 
